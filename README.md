@@ -1,3 +1,5 @@
+### [DEPRECATED] Use http://docs.ansible.com/ansible-container/ instead
+
 ### Description
 Ansible playbook for building docker images
 
